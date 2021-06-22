@@ -1,3 +1,11 @@
+Minimum Hardware Requirements:-
+
+1. windows 8/10 PC 
+2. 4 GB of RAM
+3. 500 mb of free disk space
+4. USB to RS485 converte
+
+
 Steps to Use Firmware upgrade utility UID utility
 
 1 - Please Install the Setup file in the Directory you would like to use
